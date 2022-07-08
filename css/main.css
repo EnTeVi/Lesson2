@@ -1,0 +1,63 @@
+body {
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 50%;
+    color: white;
+    text-shadow: #000 1px 0 0, #000 0 1px 0, #000 -1px 0 0, #000 0 -1px 0;
+}
+
+.container-one {
+    width: 500px;
+    margin: inherit;
+}
+
+.container-two {
+    width: 500px;
+    height: 200px;
+    padding-top: 100px;
+    background-color: darkmagenta;
+}
+
+.container-mom {
+    display: flex;
+    width: 500px;
+    height: 200px;
+    justify-content: center;
+}
+
+.container-son {
+    width: 166.6666px;
+    height: 200px;
+    background-color: green;
+}
+
+.container-dog {
+    width: 166.6666px;
+    height: 200px;
+    background-color: chartreuse;
+}
+
+.container-cat {
+    width: 166.6666px;
+    height: 200px;
+    background-color: greenyellow;
+}
+
+.container-end {
+    width: 500px;
+    height: 300px;
+    padding-top: 170px;
+    background-color: navy;
+}
